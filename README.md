@@ -1,4 +1,4 @@
-# Magento2 sort by 
+# Magento2 sort by "Price - Low To High" and "Price - High To Low"
 
 This plugin is created to implement the custom "Price - Low To High" and "Price - High To Low" options under "Sort By" on Category/Product Listing page.
 
